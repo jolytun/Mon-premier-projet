@@ -20,6 +20,20 @@
 	margin-left: 200px;
 }
 
+.title1{
+	background-color: #3384be;
+	color: white;
+	font-size: 26px;
+	font-family: Georgia;
+	text-align: center;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #00ffb8;
+	padding: 20px;
+	margin: 20px;
+	margin-right: 150px;
+	margin-left: 200px;
+}
 
 .note{
 display: flex;
@@ -27,12 +41,10 @@ margin-right: 150px;
 margin-left: 200px;
 }
 
-
 .photo1{
 	max-width: 460px;
 	margin-right: 80px;
 }
-
 
 .description{
 	font-size: 24px;
@@ -42,3 +54,18 @@ margin-left: 200px;
 	max-width: 705px;
 }
 
+.description1{
+	font-size: 21px;
+	font-family: arial;
+	text-align: justify;
+	color: #7c8b88;
+	max-width: 500px;
+}
+.description2{
+	margin-right: 150px;
+	margin-left: 200px;
+	font-size: 21px;
+	font-family: arial;
+	text-align: justify;
+	color: #7c8b88;
+}
