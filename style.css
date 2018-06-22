@@ -35,8 +35,51 @@
 	margin-left: 200px;
 }
 
+.title2{
+	background-color: #3384be;
+	color: white;
+	font-size: 15px;
+	font-family: Georgia;
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00ffb8;
+	max-width: 350px;
+	margin-top: 0px;
+	margin-right: 10px;
+}
+
+.title3{
+	background-color: #3384be;
+	color: white;
+	font-size: 15px;
+	font-family: Georgia;
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00ffb8;
+	max-width: 350px;
+	margin-top: 0px;
+}
+
 .note{
 display: flex;
+margin-right: 150px;
+margin-left: 200px;
+}
+
+.note1{
+border-width: 2px;
+border-style: solid;
+border-color: #00ffb8;
+margin-right: 421.5px;
+margin-left: 421.5px;
+max-height: 321px;
+}
+
+.note2{
+display: flex;
+margin-top: 20px;
 margin-right: 150px;
 margin-left: 200px;
 }
@@ -45,6 +88,36 @@ margin-left: 200px;
 	max-width: 460px;
 	margin-right: 80px;
 }
+
+.photo2{
+	width: 400px;
+	height: 450px;
+	border: 0;
+	margin-left: 80px;
+}
+
+.photo3{
+	max-width: 350px;
+	margin-right: 10px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00ffb8;
+}
+
+.photo4{
+	max-width: 350px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00ffb8;
+}
+
+.photo5{
+	max-width: 350px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #00ffb8;
+}
+
 
 .description{
 	font-size: 24px;
